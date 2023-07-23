@@ -51,10 +51,10 @@
 > 如果无法访问域名 `raw.githubusercontent.com`，可以使用第二个地址（`cdn.jsdelivr.net`），但是内容更新会有 12 小时的延迟。
 
 - **geoip.dat**：
-  - [https://github.com/yaling888/geosite/releases/latest/download/geoip.dat](https://github.com/yaling888/geosite/releases/latest/download/geoip.dat)
+  - [https://raw.githubusercontent.com/yaling888/geosite/release/geoip.dat](https://raw.githubusercontent.com/yaling888/geosite/release/geoip.dat)
   - [https://cdn.jsdelivr.net/gh/yaling888/geosite@release/geoip.dat](https://cdn.jsdelivr.net/gh/yaling888/geosite@release/geoip.dat)
 - **geosite.dat**：
-  - [https://github.com/yaling888/geosite/releases/latest/download/geosite.dat](https://github.com/yaling888/geosite/releases/latest/download/geosite.dat)
+  - [https://raw.githubusercontent.com/yaling888/geosite/release/geosite.dat](https://raw.githubusercontent.com/yaling888/geosite/release/geosite.dat)
   - [https://cdn.jsdelivr.net/gh/yaling888/geosite@release/geosite.dat](https://cdn.jsdelivr.net/gh/yaling888/geosite@release/geosite.dat)
 - **直连域名列表 direct-list.txt**：
   - [https://raw.githubusercontent.com/yaling888/geosite/release/direct-list.txt](https://raw.githubusercontent.com/yaling888/geosite/release/direct-list.txt)
